@@ -19,7 +19,7 @@
       ]
     },
     {
-      "Rule Name": "In Place Family Quantity",
+      "Rule Name": "greg In Place Family Quantity",
       "Element Classes": [
         "Autodesk.Revit.DB.FamilyInstance"
       ],
@@ -27,7 +27,7 @@
       "User Message": "There are too many In-Place Families in the model."
     },
     {
-      "Rule Name": "Set Quadrant",
+      "Rule Name": " greg Set Quadrant",
       "Element Classes": [
         "Autodesk.Revit.DB.FamilyInstance"
       ],
