@@ -5,7 +5,7 @@
   "Parameter Rules": 
   [
     {
-      "Rule Name": "Comments Rule For All Other Files",
+      "Rule Name": " Greg s Comments Rule For All Other Files",
       "Categories": [
         "Walls"
       ],
